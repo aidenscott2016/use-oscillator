@@ -14,9 +14,12 @@
   },
   "homepage": "https://github.com/aidenscott2016/use-oscillator#readme",
   "dependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
     "@types/react": "^16.9.34",
-    "dev": "^0.1.3",
-    "react": "^16.13.1",
     "typescript": "^3.8.3"
-  }
+  },
+  "types": "lib/useOscillatorHook.d.ts",
+  "main": "lib/useOscillatorHook.js"
 }
