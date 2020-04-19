@@ -1,0 +1,16 @@
+{
+  "name": "use-oscillator",
+  "version": "1.0.0",
+  "description": "React hook to access oscillator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/aidenscott2016/use-oscillator.git",
+  "author": "Aiden Scott <aidenscott12@googlemail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidenscott2016/use-oscillator/issues"
+  },
+  "homepage": "https://github.com/aidenscott2016/use-oscillator#readme"
+}
