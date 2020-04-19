@@ -1,6 +1,6 @@
 {
   "name": "use-oscillator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React hook to access oscillator",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,7 +20,9 @@
     "@types/react": "^16.9.34",
     "typescript": "^3.8.3"
   },
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "types": "lib/useOscillatorHook.d.ts",
   "main": "lib/useOscillatorHook.js"
 }
